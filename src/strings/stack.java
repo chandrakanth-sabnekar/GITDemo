@@ -13,6 +13,10 @@ public class stack {
 		stack.push("Amit");  
 		stack.pop();  
 		System.out.Println("Print");
+
+stack.push("Amit");  
+		stack.pop();  
+		System.out.Println("Print");
 		  
 		Set<String> s1 = new HashSet<String>();  
 
