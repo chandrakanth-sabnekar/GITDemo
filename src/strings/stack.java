@@ -12,11 +12,11 @@ public class stack {
 		
 		stack.push("Amit");  
 		stack.pop();  
-		System.out.Println("Print");
+		System.out.println("Print");
 
 stack.push("Amit");  
 		stack.pop();  
-		System.out.Println("Print");
+		System.out.println("Print");
 		  
 		Set<String> s1 = new HashSet<String>();  
 
