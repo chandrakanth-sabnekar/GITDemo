@@ -11,11 +11,9 @@ public class stack {
 		Stack<String> stack = new Stack<String>();  
 		
 		stack.push("Amit");  
-stack.pop();  
-		stack.push("Ashish");  
-stack.pop();  
-		stack.push("Garima");  
 		stack.pop();  
+		System.out.Println("Print");
+		  
 		Set<String> s1 = new HashSet<String>();  
 
 		Iterator<String> itr=stack.iterator();  
