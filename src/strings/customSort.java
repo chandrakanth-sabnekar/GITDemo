@@ -26,13 +26,7 @@ public class customSort {
 		return name;
 	}
 
-	@Override
-	public String toString() {
-		return "customSort{" +
-				"password='" + password + '\'' +
-				", name='" + name + '\'' +
-				'}';
-	}
+
 
 
 
