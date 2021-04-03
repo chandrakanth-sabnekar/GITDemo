@@ -34,7 +34,10 @@ public class customSort {
 				'}';
 	}
 
-
+	@Override
+	protected void finalize() throws Throwable {
+		super.finalize();
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
